@@ -5,7 +5,14 @@ body {
 h1 {
     color:#333;
 }
+h2{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
 
-ol{
-    list-style-type:none;
+.nota-data{
+    font-size:  0.8em;
+    color:#666;
+    margin-left: 10px;
 }
